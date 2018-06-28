@@ -89,7 +89,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\fonts\icon-font.svg" />
     <Content Include="Content\reset.css" />
+    <Content Include="Content\style.css" />
     <Content Include="Content\themes\black\accordion.css" />
     <Content Include="Content\themes\black\calendar.css" />
     <Content Include="Content\themes\black\combo.css" />
@@ -426,7 +428,11 @@
     <Content Include="Content\themes\mobile.css" />
     <Content Include="Global.asax" />
     <Content Include="Content\themes\material\images\Thumbs.db" />
+    <Content Include="Content\fonts\icon-font.eot" />
+    <Content Include="Content\fonts\icon-font.ttf" />
+    <Content Include="Content\fonts\icon-font.woff" />
     <None Include="Scripts\jquery-1.11.3.intellisense.js" />
+    <None Include="Json\tree_data.json" />
     <Content Include="Scripts\easyloader.js" />
     <Content Include="Scripts\jquery-1.11.3.js" />
     <Content Include="Scripts\jquery-1.11.3.min.js" />

@@ -1,0 +1,39 @@
+﻿[
+  {
+    "id": 1,
+    "iconCls": "icon icon-settings",
+    "text": "销售管理",
+    "children": [
+      {
+        "id": 11,
+        "iconCls": "icon icon-view_list",
+        "text": "客户管理",
+        "state": "open"
+      },
+      {
+        "id": 12,
+        "iconCls": "icon icon-view_list",
+        "text": "门店管理",
+        "state": "open"
+      },
+      {
+        "id": 13,
+        "iconCls": "icon icon-view_list",
+        "text": "信息来源",
+        "state": "open"
+      },
+      {
+        "id": 14,
+        "iconCls": "icon icon-view_list",
+        "text": "用户管理",
+        "state": "open"
+      },
+      {
+        "id": 15,
+        "iconCls": "icon icon-view_list",
+        "text": "销售人员管理",
+        "state": "open"
+      }
+    ]
+  }
+]

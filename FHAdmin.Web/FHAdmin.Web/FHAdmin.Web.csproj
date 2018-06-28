@@ -433,6 +433,7 @@
     <Content Include="Content\fonts\icon-font.woff" />
     <None Include="Scripts\jquery-1.11.3.intellisense.js" />
     <None Include="Json\tree_data.json" />
+    <Content Include="Images\favicon.ico" />
     <Content Include="Scripts\easyloader.js" />
     <Content Include="Scripts\jquery-1.11.3.js" />
     <Content Include="Scripts\jquery-1.11.3.min.js" />
